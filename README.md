@@ -1,6 +1,6 @@
-# 🌱 SmartCrop AI – Intelligent Crop Recommendation System
+# SmartCrop AI – Intelligent Crop Recommendation System
 
-SmartCrop AI is a machine learning powered application that recommends the most suitable crops to grow based on environmental conditions such as soil nutrients and climate factors.
+SmartCrop AI is a machine-learning-powered application that recommends the most suitable crops to grow based on environmental conditions, such as soil nutrients and climate factors.
 
 The system helps farmers, researchers, and agricultural planners make data-driven decisions that improve crop yield and soil sustainability.
 
@@ -8,7 +8,7 @@ The system helps farmers, researchers, and agricultural planners make data-drive
 
 ## 🚜 Problem
 
-Farmers often rely on traditional knowledge or trial-and-error when selecting crops to plant. However, crop productivity depends heavily on multiple factors including:
+Farmers often rely on traditional knowledge or trial-and-error when selecting crops to plant. However, crop productivity depends heavily on multiple factors, including:
 
 - Soil nutrient composition
 - Temperature
