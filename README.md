@@ -1,2 +1,2 @@
 # Crop-Recommender-Systems
-Smaart Agriculture 
+Smart Agriculture 
